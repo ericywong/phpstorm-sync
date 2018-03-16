@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="help_center_community_faq_thread.scss" type="Native" />
       <mapping pattern="pod_outings_dao.php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
