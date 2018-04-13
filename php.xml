@@ -519,7 +519,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="cfe61c70-8cb6-412a-8360-48dd6ff9eb19" load_method="PHPUNIT_PHAR" bootstrap_file_path="/wayfair/data/codebase/php/tests/conf/bootstrap.php" configuration_file_path="/wayfair/data/codebase/php/tests/conf/phpunit.xm" custom_loader_path="" phpunit_phar_path="/wayfair/data/codebase/php/tests/sdk/bin/phpunit.phar" use_bootstrap_file="true" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="cfe61c70-8cb6-412a-8360-48dd6ff9eb19" load_method="PHPUNIT_PHAR" bootstrap_file_path="/wayfair/data/codebase/php/tests/conf/bootstrap.php" configuration_file_path="/wayfair/data/codebase/php/tests/conf/phpunit.xml" custom_loader_path="" phpunit_phar_path="/wayfair/data/codebase/php/tests/sdk/bin/phpunit.phar" use_bootstrap_file="true" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
