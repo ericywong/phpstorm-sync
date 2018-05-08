@@ -3,6 +3,7 @@
     <option name="printScope" value="2" />
     <option name="PAPER_SIZE" value="Letter" />
     <option name="FONT_SIZE" value="8" />
+    <option name="PRINT_LINE_NUMBERS" value="false" />
     <option name="DRAW_BORDER" value="false" />
   </component>
 </application>
