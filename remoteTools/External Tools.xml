@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="jenkins-jobs deploy" description="jenkins-jobs deploy" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="NONE">
+    <exec>
+      <option name="COMMAND" value="/wayfair/data/codebase/jenkins-jobs/deploy.py" />
+      <option name="PARAMETERS" value="$Prompt$" />
+      <option name="WORKING_DIRECTORY" value="/wayfair/data/codebase/jenkins-jobs" />
+    </exec>
+  </tool>
+</toolSet>
